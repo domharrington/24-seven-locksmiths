@@ -63,3 +63,8 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+.map-canvas {
+  height: 300px;
+  width: 300px;
+}
