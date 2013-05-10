@@ -5,7 +5,7 @@ $(function () {
   var position = new google.maps.LatLng(51.262809,-1.081359)
   var mapOptions = {
     center: position,
-    zoom: 12,
+    zoom: 13,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
     draggable: true
   };

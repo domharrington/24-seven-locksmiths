@@ -65,6 +65,17 @@
   color: #FFF; }
 
 .map-canvas {
-  height: 300px;
-  width: 300px;
+  text-align: center;
+  height: 340px;
+}
+
+@media (max-width: 979px) {
+  .navbar .brand {
+    padding: 10px 5px 10px;
+  }
+
+  .navbar .btn-navbar {
+    padding: 7px 5px;
+  }
+
 }
