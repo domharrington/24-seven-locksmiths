@@ -7,7 +7,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : 24Seven Locksmiths
+title : Secure Locksmiths
 tagline: We are a local locksmiths located in Basingstoke, Hampshire.
 author :
   name : Ian Stroud
