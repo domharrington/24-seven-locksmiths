@@ -8,7 +8,7 @@ group: navigation
 
 <div class='span6'>
 <address>
-  <strong>{{ site.title }}</strong><br><br>
+  <h4>{{ site.title }}</h4>
   London Road<br>
   Basingstoke<br>
   Hampshire<br>
