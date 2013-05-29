@@ -1,8 +1,0 @@
----
-layout: page
-title: About
-header: Pages
-group: navigation
----
-{% include JB/setup %}
-
